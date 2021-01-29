@@ -1,6 +1,4 @@
-/*SUP che stampa senza sosta i multipli di due. Quindi 2, 4, 8, 16, eccetera. Il loop è innito. Cosa succede
-e perché?
-*/
+//OK
 #include <iostream>
 using namespace std;
 

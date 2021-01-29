@@ -1,8 +1,4 @@
-/*
-    Program that given a number,
-    prints out if is palindrome or not
-*/
-
+//OK
 #include "paliUtilis.hpp"
 #include <iostream>
 

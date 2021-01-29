@@ -1,8 +1,4 @@
-/*
-SUP che dato un numero intero e un numero indice, individua la cifra alla posizione indice del primo
-numero inserito. Esempio: 39842, indice 2 (decine) = 4 decine. Farsi stampare solo la cifra, non serve il
-nome posizionale (decine, centinaia, ecc).
-*/
+//OK
 #include <iostream>
 using namespace std;
 
@@ -28,4 +24,3 @@ int main ()
     return 0;
 }
 
-//dalla lezione di lab E stessa cosa con diversi file separati usando anche powInt
